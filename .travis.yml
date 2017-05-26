@@ -1,4 +1,9 @@
 ---
+ language: java
+  jdk:
+ -- oraclejdk7
+ +- oraclejdk8
+
 cli-aliases:
   cloud:
     provisioning: cloud
