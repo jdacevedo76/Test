@@ -14,4 +14,4 @@ install:
   - sudo pip install --upgrade bzt
 
 script:
-  - pip bzt OpenCart.yml
+  - bzt OpenCart.yml
